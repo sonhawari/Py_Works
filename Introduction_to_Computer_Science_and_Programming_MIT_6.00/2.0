@@ -1,0 +1,47 @@
+Python 2.5.4 (r254:67916, Dec 23 2008, 15:10:54) [MSC v.1310 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+
+    ****************************************************************
+    Personal firewall software may warn about the connection IDLE
+    makes to its subprocess using this computer's internal loopback
+    interface.  This connection is not visible on any external
+    interface and no data is sent to or received from the Internet.
+    ****************************************************************
+    
+IDLE 1.2.4      
+>>> 3*4
+12
+>>> 3* 'ab'
+'ababab'
+>>> 'a' + 'bc'
+'abc'
+>>> 3 + 'ab'
+
+Traceback (most recent call last):
+  File "<pyshell#3>", line 1, in <module>
+    3 + 'ab'
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+>>> stt(3) + 'ab'
+
+Traceback (most recent call last):
+  File "<pyshell#4>", line 1, in <module>
+    stt(3) + 'ab'
+NameError: name 'stt' is not defined
+>>> str(3) + 'ab'
+'3ab'
+>>> 'a'<3
+False
+>>> 4<'3'
+True
+>>> '4'<3
+False
+>>> 9/5
+1
+>>> 9%5
+4
+>>> 3+4*5
+23
+>>> x = 3*5
+>>> x
+15
+>>> 
