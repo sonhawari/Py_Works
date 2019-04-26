@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  26 APR 2019 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  27 APR 2019 00:39
 entering extended mode
-**./MIT_6.00_NOTES.tex
-(MIT_6.00_NOTES.tex
+**./MIT_6.0001_NOTES.tex
+(MIT_6.0001_NOTES.tex
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -269,8 +269,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
-(MIT_6.00_NOTES.aux)
-\openout1 = `MIT_6.00_NOTES.aux'.
+(MIT_6.0001_NOTES.aux)
+\openout1 = `MIT_6.0001_NOTES.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
@@ -370,36 +370,38 @@ LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
 
-(MIT_6.00_NOTES.out) (MIT_6.00_NOTES.out)
+(MIT_6.0001_NOTES.out) (MIT_6.0001_NOTES.out)
 \@outlinefile=\write3
-\openout3 = `MIT_6.00_NOTES.out'.
+\openout3 = `MIT_6.0001_NOTES.out'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
  [1
 
 {C:/Users/eiree/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
- (MIT_6.00_NOTES.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
-Package rerunfilecheck Info: File `MIT_6.00_NOTES.out' has not changed.
-(rerunfilecheck)             Checksum: 98D3A0BAA8D93C87769441FC0557092D;535.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+ (MIT_6.0001_NOTES.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package rerunfilecheck Info: File `MIT_6.0001_NOTES.out' has not changed.
+(rerunfilecheck)             Checksum: C1E4529183B058865D96A4E17E622619;226.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 6254 strings out of 492972
- 91130 string characters out of 3135883
- 189842 words of memory out of 3000000
- 10071 multiletter control sequences out of 15000+200000
- 6207 words of font info for 23 fonts, out of 3000000 for 9000
+ 6259 strings out of 492972
+ 91299 string characters out of 3135883
+ 189810 words of memory out of 3000000
+ 10076 multiletter control sequences out of 15000+200000
+ 9626 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,32p,277b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,6n,32p,279b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on MIT_6.00_NOTES.pdf (1 page, 42857 bytes).
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on MIT_6.0001_NOTES.pdf (1 page, 60818 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
