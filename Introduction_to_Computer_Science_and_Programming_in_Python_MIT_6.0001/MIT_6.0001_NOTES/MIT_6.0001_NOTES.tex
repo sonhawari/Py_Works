@@ -65,6 +65,33 @@
 \section{Decomposition, Abstraction, and Functions}
 
 
+in programming, divide code into modules:
+
+\begin{description}
+	
+	\item[$\bullet$ ] are self-contained
+	\item[$\bullet$ ] used to break up code
+	\item[$\bullet$ ] intended to be reusable
+		\item[$\bullet$ ] keep code organized
+		\item[$\bullet$ ] keep code coherent
+		
+	
+\end{description}
+
+
+\section{Tuples, Lists, Aliasing, Mutability, and Cloning}
+
+
+\subsection{Tuples}
+
+
+\begin{description}
+	
+	\item[$\bullet$ ] Immutable
+	\item[$\bullet$ $>>>$ ] tuple = ()
+	
+	
+\end{description}
 
 
 
@@ -72,21 +99,32 @@
 
 
 
+\subsection{List}
+
+hot is an alias for warm - changing one changes another. \\
+append() has a side effect.
 
 
 
+\begin{description}
+	
+	\item[$\bullet$ $>>>$ ] a = 1
+	\item[$\bullet$ $>>>$ ] b = a
+\item[$\bullet$ $>>>$ ] print(a)
+\item[$\bullet$ $>>>$ ] print(b)
+\item[$\bullet$ $>>>$ ] 
+\item[$\bullet$ $>>>$ ] warm = ["red", "yellow", "orange"]
+\item[$\bullet$ $>>>$ ] hot = warm
+\item[$\bullet$ $>>>$ ] hot.append("pink")
+\item[$\bullet$ $>>>$ ] print(hot)
+\item[$\bullet$ $>>>$ ] print(warm)
+\item[$\bullet$ $>>>$ ]	["red", "yellow", "orange", "pink"]
+\item[$\bullet$ $>>>$ ]	["red", "yellow", "orange", "pink"]
+\end{description}
 
 
 
-
-
-
-
-
-
-
-
-
+\section{Recursion and Dictionaries}
 
 
 
