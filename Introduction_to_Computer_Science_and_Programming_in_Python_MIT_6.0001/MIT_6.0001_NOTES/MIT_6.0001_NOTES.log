@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  27 APR 2019 20:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  29 APR 2019 01:01
 entering extended mode
 **./MIT_6.0001_NOTES.tex
 (MIT_6.0001_NOTES.tex
@@ -390,27 +390,24 @@ Package rerunfilecheck Warning: File `MIT_6.0001_NOTES.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `MIT_6.0001_NOTES.out':
-(rerunfilecheck)             Before: 37DF5B2A37AC5863A8D4251B7AE07E75;573
-(rerunfilecheck)             After:  021F0147FC8585E3A02108FABE61599F;559.
+(rerunfilecheck)             Before: 021F0147FC8585E3A02108FABE61599F;559
+(rerunfilecheck)             After:  B9342B64D61E64DB463B239EEC5D4054;641.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  ) 
 Here is how much of TeX's memory you used:
  6272 strings out of 492972
- 91461 string characters out of 3135883
+ 91451 string characters out of 3135883
  191810 words of memory out of 3000000
  10082 multiletter control sequences out of 15000+200000
  9933 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,6n,32p,279b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.5.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MIT_6.0001_NOTES.pdf (2 pages, 67051 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on MIT_6.0001_NOTES.pdf (2 pages, 67259 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
