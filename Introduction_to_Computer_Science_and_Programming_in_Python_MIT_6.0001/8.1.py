@@ -13,9 +13,7 @@ class Coordinate(object):
 	# special method: Print rep. of this object
 	def __str__(self):
 		return "<"+str(self.x)+","+str(self.y)+">"
-	
-	def __add__(self, other):
-		
+			
 		
 
 c = Coordinate(3,4)
@@ -32,3 +30,5 @@ print(type(c))
 
 print(isinstance(c, Coordinate))
 
+
+class fractio
