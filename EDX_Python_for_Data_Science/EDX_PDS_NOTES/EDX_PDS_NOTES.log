@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  22 APR 2019 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  2 MAY 2019 22:53
 entering extended mode
 **./EDX_PDS_NOTES.tex
 (EDX_PDS_NOTES.tex
@@ -374,33 +374,35 @@ LaTeX Info: Redefining \nameref on input line 20.
 \@outlinefile=\write3
 \openout3 = `EDX_PDS_NOTES.out'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
  [1
 
 {C:/Users/eiree/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
  (EDX_PDS_NOTES.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `EDX_PDS_NOTES.out' has not changed.
 (rerunfilecheck)             Checksum: 4D11BC1805C944E0D71C2428CF3930F4;776.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 6260 strings out of 492972
- 90998 string characters out of 3135883
- 190842 words of memory out of 3000000
- 10073 multiletter control sequences out of 15000+200000
- 6554 words of font info for 24 fonts, out of 3000000 for 9000
+ 6280 strings out of 492972
+ 91207 string characters out of 3135883
+ 191842 words of memory out of 3000000
+ 10085 multiletter control sequences out of 15000+200000
+ 9973 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,32p,276b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,6n,32p,276b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on EDX_PDS_NOTES.pdf (1 page, 62604 bytes).
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on EDX_PDS_NOTES.pdf (2 pages, 73992 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
