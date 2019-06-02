@@ -1,0 +1,49 @@
+
+body{
+
+
+    background-color: purple;
+
+}
+
+
+
+h1 {
+
+    color: red;
+    font-size: 200px;
+
+
+}
+
+img:hover {
+
+      background-color:  gold;
+
+}
+/*********************    CLASS SELECTORS    *********************/
+
+.banana {
+
+    background-color: red;
+
+
+}
+
+.bacon {
+
+        background-color: blue;
+}
+
+.circular{
+
+        border-radius: 100%;
+
+}
+/*********************    ID SELECTORS   *********************/
+
+#title {
+
+    color: blue;
+
+}
