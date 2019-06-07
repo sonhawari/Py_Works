@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  4 JUN 2019 11:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  3 JUN 2019 16:41
 entering extended mode
-**"./Introduction to Computational Thinking and Data Science_MIT_6.0002.tex"
-("Introduction to Computational Thinking and Data Science_MIT_6.0002.tex"
+**"./Udemy-Complete Data Science Bootcamp_notes.tex"
+("Udemy-Complete Data Science Bootcamp_notes.tex"
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -269,9 +269,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
-("Introduction to Computational Thinking and Data Science_MIT_6.0002.aux")
-\openout1 = `"Introduction to Computational Thinking and Data Science_MIT_6.000
-2.aux"'.
+("Udemy-Complete Data Science Bootcamp_notes.aux")
+\openout1 = `"Udemy-Complete Data Science Bootcamp_notes.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
@@ -371,53 +370,41 @@ LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
 
-("Introduction to Computational Thinking and Data Science_MIT_6.0002.out")
-("Introduction to Computational Thinking and Data Science_MIT_6.0002.out")
+("Udemy-Complete Data Science Bootcamp_notes.out")
+("Udemy-Complete Data Science Bootcamp_notes.out")
 \@outlinefile=\write3
-\openout3 = `"Introduction to Computational Thinking and Data Science_MIT_6.000
-2.out"'.
+\openout3 = `"Udemy-Complete Data Science Bootcamp_notes.out"'.
 
-
-[1
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+ [1
 
 {C:/Users/eiree/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-[]\OT1/cmr/m/n/12 https://ocw.mit.edu/courses/electrical-engineering-and-comput
-er-science/6-
- []
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-\OT1/cmr/m/n/12 0002-introduction-to-computational-thinking-and-data-science-fa
-ll-2016/lecture-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
- ("Introduction to Computational Thinking and Data Science_MIT_6.0002.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
-Package rerunfilecheck Info: File `"Introduction to Computational Thinking and 
-Data Science_MIT_6.0002".out' has not changed.
-(rerunfilecheck)             Checksum: 0D608DCC13CAB7EAC8000B460D41A5B9;928.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+("Udemy-Complete Data Science Bootcamp_notes.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package rerunfilecheck Info: File `"Udemy-Complete Data Science Bootcamp_notes"
+.out' has not changed.
+(rerunfilecheck)             Checksum: 96642E9FC53C32074F44DA3E20856BE4;453.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 6267 strings out of 492972
- 92189 string characters out of 3135883
- 189889 words of memory out of 3000000
- 10076 multiletter control sequences out of 15000+200000
- 6207 words of font info for 23 fonts, out of 3000000 for 9000
+ 6258 strings out of 492972
+ 91802 string characters out of 3135883
+ 189842 words of memory out of 3000000
+ 10072 multiletter control sequences out of 15000+200000
+ 6554 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,32p,331b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,6n,32p,307b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Introduction to Computational Thinking and Data Science_MIT_
-6.0002.pdf" (2 pages, 52218 bytes).
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Udemy-Complete Data Science Bootcamp_notes.pdf" (1 page, 573
+26 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
