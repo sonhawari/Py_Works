@@ -1,3 +1,2 @@
-# Data-Cleaning-Practical-Examples
-
-Data Cleaning In Python and Julia with Practical Examples
+# Online Courses which i follow
+Notes from courses of Python, Data science, Machine Learning, SQL and Computer Science
