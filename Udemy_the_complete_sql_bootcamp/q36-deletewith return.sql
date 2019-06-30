@@ -1,0 +1,3 @@
+﻿DELETE FROM link
+WHERE name = 'A'
+RETURNING *;

@@ -1,0 +1,1 @@
+﻿ALTER TABLE link DROP COLUMN active;

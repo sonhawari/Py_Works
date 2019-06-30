@@ -1,0 +1,1 @@
+﻿ALTER TABLE link RENAME COLUMN title to new_title_name;

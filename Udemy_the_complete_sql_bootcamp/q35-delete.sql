@@ -1,0 +1,2 @@
+﻿DELETE FROM link
+WHERE name LIKE 'B%'

@@ -1,0 +1,1 @@
+﻿ALTER TABLE link RENAME TO url_table;
