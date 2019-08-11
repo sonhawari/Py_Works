@@ -1,0 +1,22 @@
+
+colab.research.google.com
+
+To increase space:
+
+Change to [Python 3 / GPU] by going to "Runtime" > "Change runtime type"
+
+
+Compute engine --> VM instances
+
+AI Platform --> Notebooks
+
+
+--------------------
+
+ERROR:
+Quota 'GPUS_ALL_REGIONS' exceeded. Limit: 0.0 globally.
+
+Solution:
+
+Add quota
+-------------------------
