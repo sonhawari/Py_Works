@@ -11,6 +11,21 @@ Compute engine --> VM instances
 AI Platform --> Notebooks
 
 
+
+Connecting GCP VM with ssh:
+
+	
+	VPC network --> Firewall rules --> Create new firewall rule : 0.0.0.0/0
+	create VM with TF image
+	VCP network --> External IP addresses --> change type to static from ephemeral
+	Open ssh of VM and paste this code:
+		jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser &
+	Then write external ip of VM and port as:
+		9.9.9.9:9999
+	Write token code from ssh windows
+
+
+
 --------------------
 
 ERROR:
@@ -18,5 +33,5 @@ Quota 'GPUS_ALL_REGIONS' exceeded. Limit: 0.0 globally.
 
 Solution:
 
-Add quota
+Add quota with a non trial account
 -------------------------
