@@ -31,10 +31,33 @@ type -a echo
 help echo
 man echo
 man id
+/searchword for search inside man
 
 uptime
 
 chmod 755  ; r, w, x = 4, 2, 1
+
+
+"${?}" stores exit status
+
+head
+hash
+which head
+
+date
+random
+
+
+|  pipe operator
+>  overwrite
+>> add
+<  Redirect
+
+
+
+
+
+
 
 ############################################################################
 ######################        BASH      ####################################
