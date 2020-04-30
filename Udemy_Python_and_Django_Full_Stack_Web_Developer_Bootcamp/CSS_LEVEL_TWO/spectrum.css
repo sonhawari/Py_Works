@@ -1,0 +1,46 @@
+
+h1{
+text-align: center;
+}
+
+td{
+  border: 10px solid white;
+}
+
+#table{
+
+margin: auto;
+}
+
+
+#a{
+
+  background-color: #540D6E;
+  width: 300px;
+  height: 300px;
+}
+
+
+#b{
+  background-color: #EE4266;
+  width: 300px;
+  height: 300px;
+}
+
+#c{
+  background-color: #FFD23F;
+  width: 300px;
+  height: 300px;
+}
+
+#d{
+  background-color: #3BCEAC;
+  width: 300px;
+  height: 300px;
+}
+
+#e{
+  background-color: #0EAD69;
+  width: 300px;
+  height: 300px;
+}

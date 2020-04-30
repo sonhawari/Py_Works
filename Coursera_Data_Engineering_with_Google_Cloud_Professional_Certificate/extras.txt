@@ -1,0 +1,41 @@
+https://github.com/GoogleCloudPlatform/training-data-analyst
+https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/data-engineering/demos
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/data-engineering/demos/information_schema.md
+
+TIMESTAMP_MILLIS() CONVERT timestamp of int to normal time stamp
+.__TABLES__ to get info of tables
+.INFORMATION_SCHEMA.COLUMNS to get info of columns
+
+
+
+
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/data-engineering/demos/nested.md
+
+array aggragate function
+ARRAY_AGG(v2ProductName)
+ARRAY_LENGTH()
+
+finding the number of elements with ARRAY_LENGTH(<array>)
+deduplicating elements with ARRAY_AGG(DISTINCT <field>)
+ordering elements with ARRAY_AGG(<field> ORDER BY <field>)
+limiting ARRAY_AGG(<field> LIMIT 5)
+
+
+SELECT DISTINCT
+  visitId,
+  h.page.pageTitle
+FROM `bigquery-public-data.google_analytics_sample.ga_sessions_20170801`,
+UNNEST(hits) AS h
+WHERE visitId = 1501570398
+LIMIT 10
+
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/arrays
+
+
+Partitioning
+https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/data-engineering/demos/partition.md
+
+PARTITION BY DATE(column)
+CLUSTER BY userid
+PARSE_DATE("", date)

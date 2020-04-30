@@ -1,0 +1,28 @@
+body{
+  background-color: blue; /* The page background will be black */
+
+}
+
+.div{
+
+background-color: red;
+width: 50%;
+height: 50%;
+
+margin: 0 25% 0 25%;
+padding: 10px;
+
+text-align: center;
+
+}
+
+
+.firstlorem{
+
+  border: 10px solid white;
+}
+
+.secondlorem{
+
+  border: 10px solid white;
+}
