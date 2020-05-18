@@ -1,0 +1,47 @@
+START PROJECT
+CREATE APP
+EDIT views.py (of the app)
+ADD AND EDIT urls.py(of the app)
+EDIT urls.py(of the project)
+
+-------------------------------------
+TEMPLATE
+-------------------------------------
+CREATE appname/templates/appname/index.html
+ADD appname to INSTALLED_APPS in settings.py
+
+-------------------------------------
+STATIC FILES
+-------------------------------------
+CREATE appname/static/appname/style.css
+CREATE appname/static/appname/images folder
+ADD images to folder above
+ADD TOP of html file {% load static %}
+
+------------------------------------------
+MODELS / DATABASE
+------------------------------------------
+EDIT appname/models.py
+ADD , on_delete=models.CASCADE for ForeignKey's
+python manage.py migrate
+python manage.py makemigrations appname
+python manage.py migrate
+-----------------------------
+to show in admin panel
+EDIT appname/admin.py
+import databases and the register
+then create superuser
+python manage.py createsuperuser
+
+
+
+
+
+
+
+
+
+
+
+
+
